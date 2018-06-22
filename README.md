@@ -1,0 +1,2 @@
+# wallet-cli
+GSC Wallet
